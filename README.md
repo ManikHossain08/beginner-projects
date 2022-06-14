@@ -1,13 +1,6 @@
 
-Madlibs / Rock Paper Scissors / Binary Search: https://github.com/kying18/beginner-p...
-💻 Guess the Number: https://github.com/kying18/guess-the-... 
-💻 Hangman: https://github.com/kying18/hangman 
-💻 Tic-Tac-Toe + AI: https://github.com/kying18/tic-tac-toe 
-💻 Minesweeper: https://github.com/kying18/minesweeper
-💻 Sudoku: https://github.com/kying18/sudoku 
-💻 Photo Editing in Python: https://github.com/kying18/pyphotoshop
-💻 Markov Chain Composer: https://github.com/kying18/graph-comp...
 
+https://www.youtube.com/watch?v=8ext9G7xspg
 
 
 # Beginner Projects
